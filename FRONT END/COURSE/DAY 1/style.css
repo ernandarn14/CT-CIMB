@@ -1,0 +1,63 @@
+table,
+tr,
+td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    /*merapikan border*/
+    padding: 8px;
+}
+
+thead {
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+}
+
+.text-brown {
+    color: brown;
+}
+
+.text-red {
+    color: red;
+}
+
+.container {
+    border: 1px solid green;
+    margin: 15px 10px 10px 10px;
+    padding: 8px;
+    width: fit-content;
+}
+#minion{
+    color: #e6bd1a;
+}
+.rounded{
+    border-radius: 8px;
+}
+.button{
+    color: white;
+    padding: 8px;
+    border: none;
+    border-radius: 8px;
+    transition: background-color ease-in-out 250ms, color ease-in-out 250ms;
+}
+.button:hover{
+    color: black;
+    cursor: pointer;
+    background-color: white;
+    transition: background-color ease-in-out 250ms, color ease-in-out 250ms;
+}
+.btn-red{
+    background-color: red;
+    border: 1px solid red;
+}
+.btn-blue{
+    background-color: blue;
+    border: 1px solid blue;
+}
+.btn-black{
+    background-color: black;
+    border: 1px solid black;
+}
+.border {
+    border-radius: 16px
+}

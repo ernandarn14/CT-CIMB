@@ -1,0 +1,8 @@
+- display: inline-block -> agar tampilan terpisah sebaris dan tidak saling timpa
+- border-collapse: collapse --> untuk merapikan border
+- justify-content: mengikuti main axis (row)
+- align item: mengikuti cross axis (colomn)
+- selector id lebih menang daripada class
+- inline style (style dalam tag) lebih menang dari id
+- urutan prioritas ===> inline style > id > class
+- dalam bootstrap 1 row ada 12 item
